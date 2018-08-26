@@ -1,4 +1,7 @@
 {
+  "name": "moment",
+  "version": "1.0.0",
+  "author": "ShineTomorrow (beheroto@gmail.com)",
   "scripts": {
     "dev": "supervisor --harmony app.js",
     "port": "lsof -i tcp:8888"
