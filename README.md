@@ -4,12 +4,12 @@ This is a graduation project --- moment's server
 
 # Show
 
-![管理系统](http://oubl6fzsm.bkt.clouddn.com/moment2.gif)
+![manage](https://github.com/ishareme/moment/blob/master/github/moment2.gif)
 
-![WebApp](http://oubl6fzsm.bkt.clouddn.com/moment3.gif)
+![WebApp](https://github.com/ishareme/moment/blob/master/github/moment3.gif)
 
 ## Article
 
-[example](http://f2er.meitu.com/hmz/ClipImageDemo/example)
+[聊聊毕业设计系列 --- 项目介绍](https://juejin.im/post/5b6c419b6fb9a04fc67c2522)
 
-[example](http://f2er.meitu.com/hmz/ClipImageDemo/example)
+[聊聊毕业设计系列 --- 系统实现](https://juejin.im/post/5b7295e3f265da281659608b)
