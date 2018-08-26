@@ -1,7 +1,8 @@
 {
-  "name": "moment",
+  "name": "moment-server",
   "version": "1.0.0",
   "author": "ShineTomorrow (beheroto@gmail.com)",
+  "description": "This is a graduation project ---moment's server",
   "scripts": {
     "dev": "supervisor --harmony app.js",
     "port": "lsof -i tcp:8888"
