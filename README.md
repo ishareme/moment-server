@@ -2,6 +2,17 @@
 
 This is a graduation project --- moment's server
 
+# Technology stack
+- Node.js --- Express
+- MongoDB --- Mongoose
+- Vue
+- Vue-router
+- Axios
+- Vuex
+- ElementUI
+- Socket.io
+- ...
+
 # Show
 
 ![manage](https://github.com/ishareme/moment-server/blob/master/github/moment2.gif)
